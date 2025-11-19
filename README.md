@@ -46,7 +46,6 @@ El dataset contiene características relacionadas con:
 ------------
 
 - Edad del asegurado
-  ![Descripción de la imagen](distribucion_de_edad_-removebg-preview.png)
 
 - Edad del vehículo
 
@@ -120,15 +119,36 @@ El dataset contiene características relacionadas con:
 El corazón del análisis responde 5 preguntas clave:
 
 # 🧠 PREGUNTA 1:
-## ¿Existen patrones de fraude por MES del accidente?
+##  ¿Hay meses del año con mayor incidencia de fraude?
 
 ## Se analizan:
 ------------
 -  Mes del accidente
-
--  Mes de reclamación
-
+  
 -  Distribución de fraude por mes
+
+![Descripción de la imagen](fraude_vehiculos_-removebg-preview.png)
+
+**Interpretacion:**
+
+Los datos revelan un patron estacional de fraude:
+
+- **Primer semestre (Ene-Jun):** Concentra el 87% de los fraudes
+  - Marzo pico maximo: 12.56% de tasa de fraude
+  - Q1 y Q2 tienen tasas >10%
+
+- **Segundo semestre (Jul-Dic):** Casi libre de fraude
+  - Q3 solo 0.44% de fraude (24 veces MENOR que Q1)
+  - Septiembre y Octubre: 0% de fraude
+
+- **Patron de reclamacion:** Los defraudadores reclaman inmediatamente
+  - El heatmap muestra concentracion en la diagonal (mismo mes)
+  - No esperan para reclamar, actuan rapido
+
+**Implicacion de Negocio:**
+Este patron NO puede ser coincidencia. Sugiere comportamiento deliberado
+y planificado. Se recomienda reforzar controles en el primer semestre
+del año, especialmente en marzo-mayo.
 
 ## Hallazgos clave:
 
