@@ -10,9 +10,6 @@ El análisis fue desarrollado en el notebook:
 ![Descripción de la imagen](fraude_vehiculos_-removebg-preview.png)
 
 
-📄 Entregable_Final_Analisis_Tempora.ipynb
----
-
 ## 🎯 Objetivo del Proyecto
 
 El objetivo principal es entender el comportamiento temporal del fraude, usando variables como:
@@ -49,7 +46,7 @@ El dataset contiene características relacionadas con:
 ------------
 
 - Edad del asegurado
-  ![Descripción de la imagen](fraude_vehiculos_-removebg-preview.png)
+  ![Descripción de la imagen](distribucion_de_edad_-removebg-preview.png)
 
 - Edad del vehículo
 
