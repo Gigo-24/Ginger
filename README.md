@@ -7,6 +7,9 @@
 Este repositorio contiene el análisis exploratorio, de calidad de datos y análisis temporal aplicado al dataset PFDA_fraud_car.csv, con el objetivo de identificar patrones de fraude en reclamos de seguros de autos.
 El análisis fue desarrollado en el notebook:
 
+![Descripción de la imagen](fraude_vehiculos_-removebg-preview.png)
+
+
 📄 Entregable_Final_Analisis_Tempora.ipynb
 ---
 
@@ -46,7 +49,7 @@ El dataset contiene características relacionadas con:
 ------------
 
 - Edad del asegurado
-- 
+  ![Descripción de la imagen](fraude_vehiculos_-removebg-preview.png)
 
 - Edad del vehículo
 
