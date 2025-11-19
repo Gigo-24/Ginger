@@ -1,4 +1,3 @@
-@@ -0,0 +1,225 @@
 
 # ⏱️ Análisis Temporal de Reclamos de Seguros  
 
@@ -170,6 +169,8 @@ del año, especialmente en marzo-mayo.
 - Día del accidente
 
 - Día de la reclamación
+
+- 
 
 ## Hallazgos clave:
 
