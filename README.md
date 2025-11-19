@@ -126,7 +126,7 @@ El corazón del análisis responde 5 preguntas clave:
   
 -  Distribución de fraude por mes
 
-![Descripción de la imagen](fraude_vehiculos_-removebg-preview.png)
+![Descripción de la imagen](tasa_de_fraude_x_accidente_-removebg-preview.png).png)
 
 **Interpretacion:**
 
