@@ -126,7 +126,7 @@ El corazón del análisis responde 5 preguntas clave:
   
 -  Distribución de fraude por mes
 
-![Descripción de la imagen](Tasa de fraude x accidente .png)
+![Descripción de la imagen](Tasa_accidente.png)
 
 **Interpretacion:**
 
@@ -170,7 +170,7 @@ del año, especialmente en marzo-mayo.
 
 - Día de la reclamación
 
-- 
+  ![Descripción de la imagen](tasa_F_semaccidente.png)
 
 ## Hallazgos clave:
 
@@ -181,8 +181,6 @@ del año, especialmente en marzo-mayo.
 - Sábados y domingos presentan menor incidencia.
 
 ------------
-
-
 
 # 🧠 PREGUNTA 3:
 ## ¿Cuál es la diferencia temporal entre accidente y reclamación?
