@@ -46,8 +46,17 @@ El dataset contiene características relacionadas con:
 ------------
 
 - Edad del asegurado
-  <pre> ```python # Grafico 2: Distribucion de edad de los asegurados plt.figure(figsize=(10, 5)) plt.hist(df['Age'], bins=30, color='skyblue', edgecolor='black') plt.title('Distribucion de Edad de los Asegurados') plt.xlabel('Edad') plt.ylabel('Frecuencia') plt.axvline(df['Age'].mean(), color='red', linestyle='--', label=f'Media: {df["Age"].mean():.1f}') plt.legend() plt.tight_layout() plt.show() ``` </pre>
+plt.figure(figsize=(10, 5))
+plt.hist(df['Age'], bins=30, color='skyblue', edgecolor='black')
+plt.title('Distribucion de Edad de los Asegurados')
+plt.xlabel('Edad')
+plt.ylabel('Frecuencia')
+plt.axvline(df['Age'].mean(), color='red', linestyle='--', label=f'Media: {df["Age"].mean():.1f}')
+plt.legend()
+plt.tight_layout()
 
+# Guardar imagen
+plt.savefig('grafico_edad.png')
 - Edad del vehículo
 
 - Tipo de vehículo
