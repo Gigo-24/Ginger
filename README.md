@@ -126,7 +126,7 @@ El corazón del análisis responde 5 preguntas clave:
   
 -  Distribución de fraude por mes
 
-![Descripción de la imagen](Tasa_accidente.png)
+![Descripción de la imagen](Tasa de fraude x accidente .png)
 
 **Interpretacion:**
 
@@ -170,7 +170,7 @@ del año, especialmente en marzo-mayo.
 
 - Día de la reclamación
 
-  ![Descripción de la imagen](tasa_F_semaccidente.png)
+  ![Descripción de la imagen](tasa_F_ semaccidente.png)
 
 ## Hallazgos clave:
 
